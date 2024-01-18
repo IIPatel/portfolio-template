@@ -110,16 +110,7 @@ with st.container():
     with col1:
         st_lottie(python_lottie, height=70,width=70, key="python", speed=2.5)
     with col2:
-        st_lottie(java_lottie, height=70,width=70, key="java", speed=4)
-    with col3:
-        st_lottie(my_sql_lottie,height=70,width=70, key="mysql", speed=2.5)
-    with col4:
-        st_lottie(git_lottie,height=70,width=70, key="git", speed=2.5)
-    with col1:
         st_lottie(github_lottie,height=50,width=50, key="github", speed=2.5)
-    with col2:
-        st_lottie(docker_lottie,height=70,width=70, key="docker", speed=2.5)
-    
     
 # ----------------- timeline ----------------- #
 with st.container():
